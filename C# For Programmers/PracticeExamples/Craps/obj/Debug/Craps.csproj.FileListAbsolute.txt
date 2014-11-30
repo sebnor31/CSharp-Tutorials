@@ -1,0 +1,6 @@
+D:\Programming\C#\C# For Programmers\PracticeExamples\Craps\bin\Debug\Craps.exe.config
+D:\Programming\C#\C# For Programmers\PracticeExamples\Craps\bin\Debug\Craps.exe
+D:\Programming\C#\C# For Programmers\PracticeExamples\Craps\bin\Debug\Craps.pdb
+D:\Programming\C#\C# For Programmers\PracticeExamples\Craps\obj\Debug\Craps.csprojResolveAssemblyReference.cache
+D:\Programming\C#\C# For Programmers\PracticeExamples\Craps\obj\Debug\Craps.exe
+D:\Programming\C#\C# For Programmers\PracticeExamples\Craps\obj\Debug\Craps.pdb

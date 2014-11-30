@@ -1,0 +1,6 @@
+D:\Programming\C#\C# For Programmers\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+D:\Programming\C#\C# For Programmers\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+D:\Programming\C#\C# For Programmers\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+D:\Programming\C#\C# For Programmers\GradeBook\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
+D:\Programming\C#\C# For Programmers\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+D:\Programming\C#\C# For Programmers\GradeBook\GradeBook\obj\Debug\GradeBook.pdb

@@ -1,0 +1,6 @@
+D:\Programming\C#\C# For Programmers\MaximumFinder\Random\bin\Debug\Random.exe.config
+D:\Programming\C#\C# For Programmers\MaximumFinder\Random\bin\Debug\Random.exe
+D:\Programming\C#\C# For Programmers\MaximumFinder\Random\bin\Debug\Random.pdb
+D:\Programming\C#\C# For Programmers\MaximumFinder\Random\obj\Debug\Random.csprojResolveAssemblyReference.cache
+D:\Programming\C#\C# For Programmers\MaximumFinder\Random\obj\Debug\Random.exe
+D:\Programming\C#\C# For Programmers\MaximumFinder\Random\obj\Debug\Random.pdb

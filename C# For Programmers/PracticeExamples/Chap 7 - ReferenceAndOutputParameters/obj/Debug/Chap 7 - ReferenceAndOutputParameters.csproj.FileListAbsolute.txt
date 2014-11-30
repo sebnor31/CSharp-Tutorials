@@ -1,0 +1,6 @@
+D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 7 - ReferenceAndOutputParameters\bin\Debug\Chap 7 - ReferenceAndOutputParameters.exe.config
+D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 7 - ReferenceAndOutputParameters\obj\Debug\Chap 7 - ReferenceAndOutputParameters.csprojResolveAssemblyReference.cache
+D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 7 - ReferenceAndOutputParameters\bin\Debug\Chap 7 - ReferenceAndOutputParameters.exe
+D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 7 - ReferenceAndOutputParameters\bin\Debug\Chap 7 - ReferenceAndOutputParameters.pdb
+D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 7 - ReferenceAndOutputParameters\obj\Debug\Chap 7 - ReferenceAndOutputParameters.exe
+D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 7 - ReferenceAndOutputParameters\obj\Debug\Chap 7 - ReferenceAndOutputParameters.pdb

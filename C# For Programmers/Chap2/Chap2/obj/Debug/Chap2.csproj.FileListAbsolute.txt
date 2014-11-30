@@ -1,0 +1,9 @@
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\bin\Debug\Chap2.exe.config
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\bin\Debug\Chap2.exe
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\bin\Debug\Chap2.pdb
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\obj\Debug\Chap2.csprojResolveAssemblyReference.cache
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\obj\Debug\Chap2.myWindow.resources
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\obj\Debug\Chap2.Properties.Resources.resources
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\obj\Debug\Chap2.csproj.GenerateResource.Cache
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\obj\Debug\Chap2.exe
+D:\Programming\C#\C# For Programmers\Chap2\Chap2\obj\Debug\Chap2.pdb

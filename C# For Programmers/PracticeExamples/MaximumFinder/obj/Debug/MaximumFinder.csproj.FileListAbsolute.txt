@@ -1,0 +1,6 @@
+D:\Programming\C#\C# For Programmers\MaximumFinder\MaximumFinder\bin\Debug\MaximumFinder.exe.config
+D:\Programming\C#\C# For Programmers\MaximumFinder\MaximumFinder\obj\Debug\MaximumFinder.csprojResolveAssemblyReference.cache
+D:\Programming\C#\C# For Programmers\MaximumFinder\MaximumFinder\bin\Debug\MaximumFinder.exe
+D:\Programming\C#\C# For Programmers\MaximumFinder\MaximumFinder\bin\Debug\MaximumFinder.pdb
+D:\Programming\C#\C# For Programmers\MaximumFinder\MaximumFinder\obj\Debug\MaximumFinder.exe
+D:\Programming\C#\C# For Programmers\MaximumFinder\MaximumFinder\obj\Debug\MaximumFinder.pdb
