@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="4 - Time with Overloaded Constructors.cs" />
     <Compile Include="3 - Indexer.cs" />
     <Compile Include="2 - This.cs" />
     <Compile Include="1 - Time.cs" />
