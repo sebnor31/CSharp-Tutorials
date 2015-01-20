@@ -1,0 +1,6 @@
+D:\Programming\C#\Tutorials\Decision\Decision\bin\Debug\Decision.exe.config
+D:\Programming\C#\Tutorials\Decision\Decision\obj\Debug\Decision.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Tutorials\Decision\Decision\bin\Debug\Decision.exe
+D:\Programming\C#\Tutorials\Decision\Decision\bin\Debug\Decision.pdb
+D:\Programming\C#\Tutorials\Decision\Decision\obj\Debug\Decision.exe
+D:\Programming\C#\Tutorials\Decision\Decision\obj\Debug\Decision.pdb

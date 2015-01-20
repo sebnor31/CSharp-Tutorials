@@ -1,0 +1,6 @@
+D:\Programming\C#\Tutorials\Strings\Strings\bin\Debug\Strings.exe.config
+D:\Programming\C#\Tutorials\Strings\Strings\bin\Debug\Strings.exe
+D:\Programming\C#\Tutorials\Strings\Strings\bin\Debug\Strings.pdb
+D:\Programming\C#\Tutorials\Strings\Strings\obj\Debug\Strings.exe
+D:\Programming\C#\Tutorials\Strings\Strings\obj\Debug\Strings.pdb
+D:\Programming\C#\Tutorials\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache

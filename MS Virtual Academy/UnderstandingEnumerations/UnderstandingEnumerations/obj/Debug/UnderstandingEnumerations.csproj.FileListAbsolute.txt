@@ -1,0 +1,6 @@
+D:\Programming\C#\Tutorials\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe.config
+D:\Programming\C#\Tutorials\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe
+D:\Programming\C#\Tutorials\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.pdb
+D:\Programming\C#\Tutorials\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.exe
+D:\Programming\C#\Tutorials\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.pdb
+D:\Programming\C#\Tutorials\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.csprojResolveAssemblyReference.cache

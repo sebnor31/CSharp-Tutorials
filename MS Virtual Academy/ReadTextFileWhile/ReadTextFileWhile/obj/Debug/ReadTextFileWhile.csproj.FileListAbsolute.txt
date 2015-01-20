@@ -1,0 +1,7 @@
+D:\Programming\C#\Tutorials\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+D:\Programming\C#\Tutorials\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+D:\Programming\C#\Tutorials\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+D:\Programming\C#\Tutorials\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Tutorials\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+D:\Programming\C#\Tutorials\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+D:\Programming\C#\Tutorials\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values.txt

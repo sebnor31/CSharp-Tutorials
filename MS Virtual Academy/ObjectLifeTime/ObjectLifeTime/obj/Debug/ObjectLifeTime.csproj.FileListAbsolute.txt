@@ -1,0 +1,6 @@
+D:\Programming\C#\Tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+D:\Programming\C#\Tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+D:\Programming\C#\Tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+D:\Programming\C#\Tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+D:\Programming\C#\Tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb

@@ -1,0 +1,6 @@
+D:\Programming\C#\Tutorials\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+D:\Programming\C#\Tutorials\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+D:\Programming\C#\Tutorials\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+D:\Programming\C#\Tutorials\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Tutorials\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+D:\Programming\C#\Tutorials\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

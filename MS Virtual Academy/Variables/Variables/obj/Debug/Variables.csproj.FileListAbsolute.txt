@@ -1,0 +1,6 @@
+D:\Programming\C#\HelloWorld\Variables\Variables\bin\Debug\Variables.exe.config
+D:\Programming\C#\HelloWorld\Variables\Variables\bin\Debug\Variables.exe
+D:\Programming\C#\HelloWorld\Variables\Variables\bin\Debug\Variables.pdb
+D:\Programming\C#\HelloWorld\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+D:\Programming\C#\HelloWorld\Variables\Variables\obj\Debug\Variables.exe
+D:\Programming\C#\HelloWorld\Variables\Variables\obj\Debug\Variables.pdb

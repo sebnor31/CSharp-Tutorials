@@ -1,0 +1,13 @@
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe.config
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\bin\Debug\WPFEvents.pdb
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\MainWindow.baml
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\MainWindow.g.cs
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\App.g.cs
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.cache
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\WPFEvents.g.resources
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\WPFEvents.Properties.Resources.resources
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csproj.GenerateResource.Cache
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\WPFEvents.exe
+D:\Programming\C#\Tutorials\WPFEvents\WPFEvents\obj\Debug\WPFEvents.pdb

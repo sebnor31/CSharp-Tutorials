@@ -1,0 +1,6 @@
+D:\Programming\C#\Tutorials\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+D:\Programming\C#\Tutorials\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+D:\Programming\C#\Tutorials\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+D:\Programming\C#\Tutorials\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Tutorials\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+D:\Programming\C#\Tutorials\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb
