@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>BoxTest</StartupObject>
+    <StartupObject>EmployeeTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -44,10 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="4 - Time with Overloaded Constructors.cs" />
-    <Compile Include="3 - Indexer.cs" />
-    <Compile Include="2 - This.cs" />
-    <Compile Include="1 - Time.cs" />
+    <Compile Include="6 - Overloaded Constructors.cs" />
+    <Compile Include="5 - Indexer.cs" />
+    <Compile Include="4 - This.cs" />
+    <Compile Include="2 - Time.cs" />
+    <Compile Include="8 - Composition.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

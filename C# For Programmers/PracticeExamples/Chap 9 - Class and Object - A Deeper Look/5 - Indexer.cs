@@ -1,4 +1,6 @@
-﻿/* 
+﻿/* An indexer is a propety-like member to get/set class members value.
+ * It enables non-integer indexing (e.g., string) to access a desired element of a data list (e.g., array). 
+ * Indexers are always public due to its property-like nature (syntax error o.w.).
  */
 using System;
 

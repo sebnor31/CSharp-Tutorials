@@ -7,3 +7,6 @@ D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 8 - InitArray\obj\Deb
 D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 8 - InitArray\bin\Debug\Chap 8 - InitArray.exe.config
 D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 8 - InitArray\obj\Debug\Chap 8 - InitArray.exe
 D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 8 - InitArray\obj\Debug\Chap 8 - InitArray.pdb
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 8 - InitArray\bin\Debug\Chap 8 - InitArray.exe
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 8 - InitArray\bin\Debug\Chap 8 - InitArray.pdb
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 8 - InitArray\obj\Debug\Chap 8 - Array.csprojResolveAssemblyReference.cache

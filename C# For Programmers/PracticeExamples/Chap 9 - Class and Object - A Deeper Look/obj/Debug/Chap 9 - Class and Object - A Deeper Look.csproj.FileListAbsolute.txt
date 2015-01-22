@@ -4,3 +4,9 @@ D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 9 - Class and Object 
 D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.csprojResolveAssemblyReference.cache
 D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.exe
 D:\Programming\C#\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.pdb
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.exe.config
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.exe
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.pdb
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.exe
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.pdb
+D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.csprojResolveAssemblyReference.cache

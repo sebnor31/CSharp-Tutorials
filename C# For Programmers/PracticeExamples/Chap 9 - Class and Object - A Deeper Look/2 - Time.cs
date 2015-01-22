@@ -35,9 +35,9 @@ public class Time1Test
 public class Time1
 {
    /* Declaration of Instance Variables */
-   private int hour;
-   private int minute;
-   private int second;
+   private int hour;    // 0-23
+   private int minute;  // 0-59
+   private int second;  // 0-59
 
    /* Set time by ensuring validity of input parameters */
    public void SetTime(int h, int m, int s)
@@ -45,7 +45,6 @@ public class Time1
       hour = ( ( (h >= 0) && (h < 24) ) ? h : 0 );
       minute = ( ( (m >= 0) && (m < 60) ) ? m : 0 );
       second = ( ( (s >= 0) && (s < 60) ) ? s : 0 );
-
    }// end method SetTime
 
    /* Convert to string in universal-time format HH:MM:SS */
@@ -57,7 +56,6 @@ public class Time1
    /* Convert to string in a standard format H:MM:SS AM or PM */
    public override string ToString()
    {
-
       return String.Format("{0}:{1:D2}:{2:D2} {3}", 
          (hour == 0 || hour == 12) ? 12 : (hour % 12) , 
          minute, second,
