@@ -3,17 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumFinder", "MaximumFinder\MaximumFinder.csproj", "{D1556113-40B9-4C37-A40C-A2F0782EAB09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 07 - Methods - A Deeper Look", "Craps\Chap 07 - Methods - A Deeper Look.csproj", "{C361F4EC-DF84-4841-80B7-59781BE6A6C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCust", "Random\RandomCust.csproj", "{3A6CBD79-CDF1-4197-8573-C915EA6A840C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 08 - Array", "Chap 8 - InitArray\Chap 08 - Array.csproj", "{6D09675F-2228-48D5-A457-6648B6C59DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 7 - Craps", "Craps\Chap 7 - Craps.csproj", "{C361F4EC-DF84-4841-80B7-59781BE6A6C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 09 - Class and Object - A Deeper Look", "Chap 9 - Class and Object - A Deeper Look\Chap 09 - Class and Object - A Deeper Look.csproj", "{7C61FA84-A4CE-4F56-8ABE-CA29A56CDE67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 7 - ReferenceAndOutputParameters", "Chap 7 - ReferenceAndOutputParameters\Chap 7 - ReferenceAndOutputParameters.csproj", "{B33EEB0E-62D8-47F0-953B-BE921276F4C1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 8 - Array", "Chap 8 - InitArray\Chap 8 - Array.csproj", "{6D09675F-2228-48D5-A457-6648B6C59DB5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 9 - Class and Object - A Deeper Look", "Chap 9 - Class and Object - A Deeper Look\Chap 9 - Class and Object - A Deeper Look.csproj", "{7C61FA84-A4CE-4F56-8ABE-CA29A56CDE67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 10 - Inheritance", "Chap 10 - Inheritance\Chap 10 - Inheritance.csproj", "{50421CDB-9C2C-4931-8AE9-122CD2B2F2FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,22 +17,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D1556113-40B9-4C37-A40C-A2F0782EAB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1556113-40B9-4C37-A40C-A2F0782EAB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1556113-40B9-4C37-A40C-A2F0782EAB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1556113-40B9-4C37-A40C-A2F0782EAB09}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A6CBD79-CDF1-4197-8573-C915EA6A840C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A6CBD79-CDF1-4197-8573-C915EA6A840C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A6CBD79-CDF1-4197-8573-C915EA6A840C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A6CBD79-CDF1-4197-8573-C915EA6A840C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C361F4EC-DF84-4841-80B7-59781BE6A6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C361F4EC-DF84-4841-80B7-59781BE6A6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C361F4EC-DF84-4841-80B7-59781BE6A6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C361F4EC-DF84-4841-80B7-59781BE6A6C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B33EEB0E-62D8-47F0-953B-BE921276F4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B33EEB0E-62D8-47F0-953B-BE921276F4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B33EEB0E-62D8-47F0-953B-BE921276F4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B33EEB0E-62D8-47F0-953B-BE921276F4C1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6D09675F-2228-48D5-A457-6648B6C59DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6D09675F-2228-48D5-A457-6648B6C59DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D09675F-2228-48D5-A457-6648B6C59DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +29,10 @@ Global
 		{7C61FA84-A4CE-4F56-8ABE-CA29A56CDE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C61FA84-A4CE-4F56-8ABE-CA29A56CDE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C61FA84-A4CE-4F56-8ABE-CA29A56CDE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50421CDB-9C2C-4931-8AE9-122CD2B2F2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50421CDB-9C2C-4931-8AE9-122CD2B2F2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50421CDB-9C2C-4931-8AE9-122CD2B2F2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50421CDB-9C2C-4931-8AE9-122CD2B2F2FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

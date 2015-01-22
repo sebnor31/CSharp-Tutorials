@@ -10,3 +10,9 @@ D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - 
 D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.exe
 D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.pdb
 D:\Programming\C#\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.csprojResolveAssemblyReference.cache
+C:\GitHub\Nordine Sebkhi\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.exe.config
+C:\GitHub\Nordine Sebkhi\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.exe
+C:\GitHub\Nordine Sebkhi\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.pdb
+C:\GitHub\Nordine Sebkhi\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\obj\Debug\Chap 9 - Class and Object - A Deeper Look.csprojResolveAssemblyReference.cache
+C:\GitHub\Nordine Sebkhi\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.exe
+C:\GitHub\Nordine Sebkhi\CSharp-Tutorials\C# For Programmers\PracticeExamples\Chap 9 - Class and Object - A Deeper Look\bin\Debug\Chap 9 - Class and Object - A Deeper Look.pdb
