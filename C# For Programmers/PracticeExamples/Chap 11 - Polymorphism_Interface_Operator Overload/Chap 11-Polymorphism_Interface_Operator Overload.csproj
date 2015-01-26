@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50421CDB-9C2C-4931-8AE9-122CD2B2F2FD}</ProjectGuid>
+    <ProjectGuid>{108A0A6F-9EB6-448B-BF67-AE81858A4445}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Chap_10___Inheritance</RootNamespace>
-    <AssemblyName>Chap 10 - Inheritance</AssemblyName>
+    <RootNamespace>Chap_11_Polymorphism_Interface_Operator_Overload</RootNamespace>
+    <AssemblyName>Chap 11-Polymorphism_Interface_Operator Overload</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,14 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConstructorTest</StartupObject>
+    <StartupObject>Chap_11.PayrollSystemTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="05 - Constructors in Derived Classes.cs" />
-    <Compile Include="04 - Base and Derived Class.cs" />
+    <Compile Include="05 - Polymorphism.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
