@@ -1,23 +1,18 @@
 ﻿using System;
 
-public class Withdrawal
+public class Withdrawal : Transaction
 {
    /* Attributes */
-   private int accountNumber;
-   private decimal amount;
-
-   /* References to associated objects */
-   private Screen screen;
-   private Keypad keypad;
-   private CashDispenser cashDispenser;
-   private BankDatabase bankdatabase;
+   private decimal amount;                // amount to withdraw
+   private Keypad keypad;                 // reference to the keypad
+   private CashDispenser cashDispenser;   // reference to the cash dispenser
 
    /* Constructor */
    public Withdrawal()
    { }//end constructor Withdrawal
 
    /* Methods */
-   public void Execute()
+   public override void Execute()
    { }//end method Execute
 
 }//end class Withdrawal

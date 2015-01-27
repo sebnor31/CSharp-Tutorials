@@ -43,6 +43,7 @@
     <Compile Include="Keypad.cs" />
     <Compile Include="CashDispenser.cs" />
     <Compile Include="DepositSlot.cs" />
+    <Compile Include="Transaction.cs" />
     <Compile Include="Screen.cs" />
     <Compile Include="Deposit.cs" />
     <Compile Include="Withdrawal.cs" />

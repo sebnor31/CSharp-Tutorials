@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 10 - Inheritance", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 11-Polymorphism_Interface_Operator Overload", "Chap 11 - Polymorphism_Interface_Operator Overload\Chap 11-Polymorphism_Interface_Operator Overload.csproj", "{108A0A6F-9EB6-448B-BF67-AE81858A4445}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap 12 - Exception Handling", "Chap 12 - Exception Handling\Chap 12 - Exception Handling.csproj", "{CB55D922-198D-48AE-B5F4-13081BF45012}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{108A0A6F-9EB6-448B-BF67-AE81858A4445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{108A0A6F-9EB6-448B-BF67-AE81858A4445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{108A0A6F-9EB6-448B-BF67-AE81858A4445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB55D922-198D-48AE-B5F4-13081BF45012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB55D922-198D-48AE-B5F4-13081BF45012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB55D922-198D-48AE-B5F4-13081BF45012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB55D922-198D-48AE-B5F4-13081BF45012}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
