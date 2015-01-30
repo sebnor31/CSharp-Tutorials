@@ -33,14 +33,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Chap_13_GUI_1.LabeltextButtonMain</StartupObject>
+    <StartupObject>Chap_13_GUI_1.InterestCalculatorMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10 - Numeric UpDown%28Main%29.cs" />
+    <Compile Include="09 - Tool Tip%28Main%29.cs" />
+    <Compile Include="08 - Picture Box%28Main%29.cs" />
+    <Compile Include="07 - Radio Button%28Main%29.cs" />
+    <Compile Include="07 - Check Box%28Main%29.cs" />
+    <Compile Include="06 - GroupBox and Panel%28Main%29.cs" />
     <Compile Include="05 - LabelTextButton.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -48,9 +56,63 @@
       <DependentUpon>05 - LabelTextButton.cs</DependentUpon>
     </Compile>
     <Compile Include="05 - LabelTextButton%28Main%29.cs" />
+    <Compile Include="06 - GroupBox and Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="06 - GroupBox and Panel.Designer.cs">
+      <DependentUpon>06 - GroupBox and Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 - Check Box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07 - Check Box.Designer.cs">
+      <DependentUpon>07 - Check Box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07 - Radio Button.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07 - Radio Button.Designer.cs">
+      <DependentUpon>07 - Radio Button.cs</DependentUpon>
+    </Compile>
+    <Compile Include="08 - Picture Box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="08 - Picture Box.Designer.cs">
+      <DependentUpon>08 - Picture Box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="09 - Tooltip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09 - Tooltip.Designer.cs">
+      <DependentUpon>09 - Tooltip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="10 - Numeric UpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10 - Numeric UpDown.Designer.cs">
+      <DependentUpon>10 - Numeric UpDown.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="05 - LabelTextButton.resx">
       <DependentUpon>05 - LabelTextButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="06 - GroupBox and Panel.resx">
+      <DependentUpon>06 - GroupBox and Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 - Check Box.resx">
+      <DependentUpon>07 - Check Box.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07 - Radio Button.resx">
+      <DependentUpon>07 - Radio Button.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="08 - Picture Box.resx">
+      <DependentUpon>08 - Picture Box.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09 - Tooltip.resx">
+      <DependentUpon>09 - Tooltip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10 - Numeric UpDown.resx">
+      <DependentUpon>10 - Numeric UpDown.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

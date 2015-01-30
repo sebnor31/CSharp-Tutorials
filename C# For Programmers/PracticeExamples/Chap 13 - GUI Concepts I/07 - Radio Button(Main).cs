@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace Chap_13_GUI_1
 {
-   static class LabelTextBoxButtonMain
+   static class RadioButtonsTestMain
    {
       /// <summary>
       /// The main entry point for the application.
@@ -13,7 +13,7 @@ namespace Chap_13_GUI_1
       {
          Application.EnableVisualStyles();
          Application.SetCompatibleTextRenderingDefault(false);
-         Application.Run(new LabelTextButton());
+         Application.Run(new RadioButtonsTestForm());
       }
    }
 }
