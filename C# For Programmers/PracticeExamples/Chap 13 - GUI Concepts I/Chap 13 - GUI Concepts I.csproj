@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Chap_13_GUI_1.InterestCalculatorMain</StartupObject>
+    <StartupObject>Chap_13_GUI_1.KeyDemoMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="12 - Keyboard-Event Handling%28Main%29.cs" />
+    <Compile Include="11 - Mouse-Event Handling%28Main%29.cs" />
     <Compile Include="10 - Numeric UpDown%28Main%29.cs" />
     <Compile Include="09 - Tool Tip%28Main%29.cs" />
     <Compile Include="08 - Picture Box%28Main%29.cs" />
@@ -92,6 +94,18 @@
     <Compile Include="10 - Numeric UpDown.Designer.cs">
       <DependentUpon>10 - Numeric UpDown.cs</DependentUpon>
     </Compile>
+    <Compile Include="11 - Mouse-Event Handling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="11 - Mouse-Event Handling.Designer.cs">
+      <DependentUpon>11 - Mouse-Event Handling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="12 - Keyboard-Event Handling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12 - Keyboard-Event Handling.Designer.cs">
+      <DependentUpon>12 - Keyboard-Event Handling.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="05 - LabelTextButton.resx">
       <DependentUpon>05 - LabelTextButton.cs</DependentUpon>
@@ -113,6 +127,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="10 - Numeric UpDown.resx">
       <DependentUpon>10 - Numeric UpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="11 - Mouse-Event Handling.resx">
+      <DependentUpon>11 - Mouse-Event Handling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12 - Keyboard-Event Handling.resx">
+      <DependentUpon>12 - Keyboard-Event Handling.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
